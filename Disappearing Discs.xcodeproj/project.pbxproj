@@ -16,6 +16,18 @@
 		D2925DE91D7E3B09005F5080 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2925DE71D7E3B09005F5080 /* LaunchScreen.storyboard */; };
 		D2925DF41D7E3B09005F5080 /* Disappearing_DiscsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2925DF31D7E3B09005F5080 /* Disappearing_DiscsTests.swift */; };
 		D2925DFF1D7E3B09005F5080 /* Disappearing_DiscsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2925DFE1D7E3B09005F5080 /* Disappearing_DiscsUITests.swift */; };
+		D2925E161D7E3C5B005F5080 /* Click.wav in Resources */ = {isa = PBXBuildFile; fileRef = D2925E0C1D7E3C5B005F5080 /* Click.wav */; };
+		D2925E171D7E3C5B005F5080 /* Correct.wav in Resources */ = {isa = PBXBuildFile; fileRef = D2925E0D1D7E3C5B005F5080 /* Correct.wav */; };
+		D2925E181D7E3C5B005F5080 /* Disappearing Discs Assets License.pdf in Resources */ = {isa = PBXBuildFile; fileRef = D2925E0E1D7E3C5B005F5080 /* Disappearing Discs Assets License.pdf */; };
+		D2925E191D7E3C5B005F5080 /* Disc1.png in Resources */ = {isa = PBXBuildFile; fileRef = D2925E0F1D7E3C5B005F5080 /* Disc1.png */; };
+		D2925E1A1D7E3C5B005F5080 /* Disc2.png in Resources */ = {isa = PBXBuildFile; fileRef = D2925E101D7E3C5B005F5080 /* Disc2.png */; };
+		D2925E1B1D7E3C5B005F5080 /* Disc3.png in Resources */ = {isa = PBXBuildFile; fileRef = D2925E111D7E3C5B005F5080 /* Disc3.png */; };
+		D2925E1C1D7E3C5B005F5080 /* Disc4.png in Resources */ = {isa = PBXBuildFile; fileRef = D2925E121D7E3C5B005F5080 /* Disc4.png */; };
+		D2925E1D1D7E3C5B005F5080 /* DiscsBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = D2925E131D7E3C5B005F5080 /* DiscsBackground.png */; };
+		D2925E1E1D7E3C5B005F5080 /* GameOverSound.wav in Resources */ = {isa = PBXBuildFile; fileRef = D2925E141D7E3C5B005F5080 /* GameOverSound.wav */; };
+		D2925E1F1D7E3C5B005F5080 /* Pusab.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D2925E151D7E3C5B005F5080 /* Pusab.ttf */; };
+		D2925E211D7E3E4E005F5080 /* MainMenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2925E201D7E3E4E005F5080 /* MainMenuScene.swift */; };
+		D2925E231D7E3E9E005F5080 /* GameOverScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2925E221D7E3E9E005F5080 /* GameOverScene.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +63,18 @@
 		D2925DFA1D7E3B09005F5080 /* Disappearing DiscsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Disappearing DiscsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2925DFE1D7E3B09005F5080 /* Disappearing_DiscsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Disappearing_DiscsUITests.swift; sourceTree = "<group>"; };
 		D2925E001D7E3B09005F5080 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D2925E0C1D7E3C5B005F5080 /* Click.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Click.wav; path = ../Click.wav; sourceTree = "<group>"; };
+		D2925E0D1D7E3C5B005F5080 /* Correct.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Correct.wav; path = ../Correct.wav; sourceTree = "<group>"; };
+		D2925E0E1D7E3C5B005F5080 /* Disappearing Discs Assets License.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Disappearing Discs Assets License.pdf"; sourceTree = SOURCE_ROOT; };
+		D2925E0F1D7E3C5B005F5080 /* Disc1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Disc1.png; path = ../Disc1.png; sourceTree = "<group>"; };
+		D2925E101D7E3C5B005F5080 /* Disc2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Disc2.png; path = ../Disc2.png; sourceTree = "<group>"; };
+		D2925E111D7E3C5B005F5080 /* Disc3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Disc3.png; path = ../Disc3.png; sourceTree = "<group>"; };
+		D2925E121D7E3C5B005F5080 /* Disc4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Disc4.png; path = ../Disc4.png; sourceTree = "<group>"; };
+		D2925E131D7E3C5B005F5080 /* DiscsBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = DiscsBackground.png; path = ../DiscsBackground.png; sourceTree = "<group>"; };
+		D2925E141D7E3C5B005F5080 /* GameOverSound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = GameOverSound.wav; path = ../GameOverSound.wav; sourceTree = "<group>"; };
+		D2925E151D7E3C5B005F5080 /* Pusab.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Pusab.ttf; path = ../Pusab.ttf; sourceTree = "<group>"; };
+		D2925E201D7E3E4E005F5080 /* MainMenuScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainMenuScene.swift; sourceTree = "<group>"; };
+		D2925E221D7E3E9E005F5080 /* GameOverScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameOverScene.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,9 +125,21 @@
 		D2925DD91D7E3B09005F5080 /* Disappearing Discs */ = {
 			isa = PBXGroup;
 			children = (
+				D2925E0C1D7E3C5B005F5080 /* Click.wav */,
+				D2925E0D1D7E3C5B005F5080 /* Correct.wav */,
+				D2925E0E1D7E3C5B005F5080 /* Disappearing Discs Assets License.pdf */,
+				D2925E0F1D7E3C5B005F5080 /* Disc1.png */,
+				D2925E101D7E3C5B005F5080 /* Disc2.png */,
+				D2925E111D7E3C5B005F5080 /* Disc3.png */,
+				D2925E121D7E3C5B005F5080 /* Disc4.png */,
+				D2925E131D7E3C5B005F5080 /* DiscsBackground.png */,
+				D2925E141D7E3C5B005F5080 /* GameOverSound.wav */,
+				D2925E151D7E3C5B005F5080 /* Pusab.ttf */,
 				D2925DDA1D7E3B09005F5080 /* AppDelegate.swift */,
 				D2925DDC1D7E3B09005F5080 /* GameScene.sks */,
 				D2925DDE1D7E3B09005F5080 /* GameScene.swift */,
+				D2925E201D7E3E4E005F5080 /* MainMenuScene.swift */,
+				D2925E221D7E3E9E005F5080 /* GameOverScene.swift */,
 				D2925DE01D7E3B09005F5080 /* GameViewController.swift */,
 				D2925DE21D7E3B09005F5080 /* Main.storyboard */,
 				D2925DE51D7E3B09005F5080 /* Assets.xcassets */,
@@ -235,10 +271,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D2925E191D7E3C5B005F5080 /* Disc1.png in Resources */,
+				D2925E181D7E3C5B005F5080 /* Disappearing Discs Assets License.pdf in Resources */,
+				D2925E1B1D7E3C5B005F5080 /* Disc3.png in Resources */,
 				D2925DDD1D7E3B09005F5080 /* GameScene.sks in Resources */,
+				D2925E1D1D7E3C5B005F5080 /* DiscsBackground.png in Resources */,
+				D2925E171D7E3C5B005F5080 /* Correct.wav in Resources */,
 				D2925DE91D7E3B09005F5080 /* LaunchScreen.storyboard in Resources */,
+				D2925E1E1D7E3C5B005F5080 /* GameOverSound.wav in Resources */,
+				D2925E1F1D7E3C5B005F5080 /* Pusab.ttf in Resources */,
+				D2925E1A1D7E3C5B005F5080 /* Disc2.png in Resources */,
 				D2925DE61D7E3B09005F5080 /* Assets.xcassets in Resources */,
+				D2925E1C1D7E3C5B005F5080 /* Disc4.png in Resources */,
 				D2925DE41D7E3B09005F5080 /* Main.storyboard in Resources */,
+				D2925E161D7E3C5B005F5080 /* Click.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,8 +309,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D2925E231D7E3E9E005F5080 /* GameOverScene.swift in Sources */,
 				D2925DDF1D7E3B09005F5080 /* GameScene.swift in Sources */,
 				D2925DE11D7E3B09005F5080 /* GameViewController.swift in Sources */,
+				D2925E211D7E3E4E005F5080 /* MainMenuScene.swift in Sources */,
 				D2925DDB1D7E3B09005F5080 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -410,9 +458,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Disappearing Discs/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.toland.Disappearing-Discs";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -421,9 +471,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Disappearing Discs/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.toland.Disappearing-Discs";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
